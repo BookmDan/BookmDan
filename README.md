@@ -3,7 +3,7 @@
 - 🌱 I’m currently in FlatIron School Coding Bootcamp and planning on graduating in Feb 2024.
 - 🏢 I will be attending online MCS at Colorado State University in Fall 2024.
 - 💞️ I’m looking to collaborate on Machine Learning tools for AI and Computer Vision 
-- 📫 How to reach me: via Github, [Twitter](https://twitter.com/BokemdanE)
+- 📫 How to reach me: via Github, [Linkedin](https://www.linkedin.com/in/-danieloh-/)
 
 <!---
 BookmDan/BookmDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
